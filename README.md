@@ -25,5 +25,5 @@ This project provides a real-time punch detection system using MediaPipe and Ope
 # Dependencies
 Make sure you have the following installed:
 ```
-pip install opencv-python-headless pillow
+pip install opencv-python pillow mediapipe
 ```
